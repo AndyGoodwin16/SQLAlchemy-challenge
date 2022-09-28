@@ -1,3 +1,5 @@
+NOTE: I did not attempt the bonus on this assignment.
+
 # Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
